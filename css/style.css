@@ -1,0 +1,35 @@
+#game{
+  height: 1000px; 
+
+}
+
+#para{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#babu{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 5px;
+}
+#dd{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+#container{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 0pxpx;
+    background-color: rgb(190, 217, 237);
+  
+}
+
+#bb{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
